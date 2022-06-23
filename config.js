@@ -41,10 +41,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/BaraXD'
-global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
-global.sdc = 'https://t.me/BotzzMeeOFC'
+global.sig = '-'
+global.sgh = '-'
+global.sgc = 'https://chat.whatsapp.com/FgJ3nYf5r8xG8nv3r32nKX'
+global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
@@ -53,7 +53,7 @@ global.povo = '088990007937'
 global.pgopay = '088990007937'
 global.ppulsa = '088990007937'
 global.ppulsa2 = '088990007937'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285707955769'
