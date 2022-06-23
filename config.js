@@ -66,7 +66,7 @@ global.nameown = 'Ahmad'
 global.owner = [
   ['6288990007937'],
   ['6283854778837'],
-  ['6289608449708'],'Yzn-bot【YZN-MD】', true]
+  ['6289608449708', 'Yzn-bot【YZN-MD】', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
