@@ -11,7 +11,7 @@ key: {
 },
  text: `${text}`}}, { messageId: m.id })
  }
- handler.help = ['r <emoji>']
+ handler.help = ['<emoji>']
 handler.tags = ['tools']
 handler.command = /^(react)$/i
 
